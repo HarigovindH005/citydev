@@ -197,7 +197,6 @@ This project is open-source and intended for public sector urban planning use. D
 
 - **Data**: [OpenStreetMap](https://www.openstreetmap.org), [Census of India](https://censusindia.gov.in), [Kerala Ecostat](https://ecostat.kerala.gov.in), [LGD](https://lgdirectory.gov.in), [Bhuvan ISRO](https://bhuvan.nrsc.gov.in)
 - **Built with**: Streamlit, Scikit-learn, Folium, NumPy
-- **Developers**: [Harigovind H](https://github.com/HarigovindH005)
 
 ---
 
